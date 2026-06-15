@@ -1,0 +1,6 @@
+{
+  "name": "edge-script",
+  "dependencies": {
+    "@bunny.net/edgescript-sdk": "^0.12.1"
+  }
+}

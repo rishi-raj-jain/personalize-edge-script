@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@bunny.net/edgescript-sdk": "npm:@bunny.net/edgescript-sdk@^0.12.1"
+  },
+  "compilerOptions": {
+    "lib": ["deno.window", "deno.ns", "dom", "esnext"]
+  }
+}
